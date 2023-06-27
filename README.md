@@ -14,3 +14,5 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 A picture of Mock dashboard is provided for an idea.
+
+Note: This data doesn't belong to me. It's a challange project that I did
